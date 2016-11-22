@@ -1,0 +1,204 @@
+* {
+  font-family: 'Raleway', sans-serif;
+}
+
+
+/** {
+       border: 1px solid red !important;
+}*/
+
+body {
+  background-color: #fff;
+}
+
+.navbar {
+  background-color: #2b303a;
+  border-bottom: 1px solid #ff669a;
+  height: 70px;
+  padding: 10px 0 10px 0;
+}
+
+.navbar a {
+  color: #fff;
+}
+
+.navbar-toggle .icon-bar {
+  display: block;
+  width: 30px;
+  height: 4px;
+  border-radius: 1px;
+}
+
+.icon-bar {
+  background-color: #fff;
+  color: #fff;
+}
+
+.section-box {
+  clear: both;
+  background-color: #ff669a;
+  color: #fff;
+  display: inline-block;
+  margin: 50px 14px;
+  padding: 9px;
+  width: 360px;
+}
+
+.main-content {
+  padding: 0px 0 50px 0;
+}
+
+.container-content {
+  background-color: #2b303a;
+}
+
+.border-bottom {
+  border-bottom: 5px solid;
+  border-color: #ff669a;
+  padding-bottom: 15px;
+  margin-bottom: 2%;
+}
+
+.image-margin {
+  margin-top: 8%;
+}
+
+.margin-bottom {
+  margin-bottom: 5%;
+}
+
+footer {
+  background-color: #ff669a;
+}
+
+@media only screen and (max-width: 500px) {
+  h1 {
+    text-align: center !important;
+  }
+  h2 {
+    text-align: center !important;
+  }
+}
+
+h1 {
+  font-weight: 100;
+  font-size: 70px;
+  margin: 0;
+}
+
+h2 {
+  margin: 0;
+}
+
+h3 {
+  margin-left: 3%;
+  margin-top: 3%;
+  font-size: 45px;
+}
+
+h4 {
+  color: #fff;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 30px;
+}
+
+.featured a {
+  color: #ff669a;
+  border-bottom: 1px solid #ff669a;
+}
+
+.featured a:hover {
+  text-decoration: none;
+  color: #fff;
+  border-bottom: 1px solid #fff;
+}
+
+.featured p {
+  text-align: center;
+  margin-top: -15px;
+  font-size: 20px;
+}
+
+.contentmargin {
+  margin: 0 2% 0 2%;
+}
+
+.logo img {
+  height: 105px;
+}
+
+.custom-img {
+  margin: 0 auto;
+}
+
+.hero img{
+    width: 100%;
+}
+footer {
+  margin-top: 20px;
+  height: 60px;
+  color: #fff;
+  font-size: 20px;
+  padding: 20px 15% 0 15%;
+}
+
+@media only screen and (max-width: 991px) {
+  .logo {
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 40px;
+  }
+
+  .text-uppercase h1, h2 {
+    text-align: center
+  }
+  .section-box {
+    display: block;
+    margin: 30px auto;
+    padding: 9px;
+    width: 360px;
+  }
+
+  footer {
+    padding: 20px 10% 0 10%;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+.logo {
+    margin-top: 70px;
+}
+  .navbar {
+    background-color: #2b303a;
+    height: auto;
+  }
+  .resume-block .resume-icon {
+    float: none;
+    margin-right: 18px;
+  }
+  .navbar li,
+  a {
+    color: #fff;
+    font: 16px "Open Sans", sans-serif;
+    text-transform: uppercase;
+    font-smoothing: antialiased;
+    height: 52px;
+  }
+  .navbar-brand {
+    float: left;
+    padding: 0;
+    margin: 16px 0 0 16px;
+    font-size: 17px;
+    line-height: auto;
+    height: auto;
+  }
+  .section-box {
+    width: 85vw;
+    text-align: center;
+  }
+
+   footer {
+    padding: 20px 2% 0 2%;
+  }
+}
