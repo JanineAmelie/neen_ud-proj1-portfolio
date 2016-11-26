@@ -35,8 +35,6 @@ line 5: meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"
 2. Make sure you are connected to the net.
 3. Unzip the file using Winrar / 7zip etc.
 4. Double click the index.html file and open with your favorite browser.
-5. Scroll down to the bottom of the page to see the Jasmine suite and its specs.
-
 
 ---
 ### Finished Result:
