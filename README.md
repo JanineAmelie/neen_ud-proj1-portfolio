@@ -38,6 +38,7 @@ line 5: meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"
 4. Double click the index.html file and open with your favorite browser.
 
 5. Alternatively, view the site live here: https://janinelourens.github.io/neen_ud-proj1-portfolio/
+
 ---
 ### Finished Result:
 
