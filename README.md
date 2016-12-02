@@ -7,7 +7,7 @@ A design mockup was provided to me as a PDF file. My task was to recreate the la
 
  The overall 'aesthetic' design of the page could be customized but the layout was followed but improved upon slightly to look better responsively.
 
-![UD project](https://imgroll.net/images/2016/11/26/mock4-portfolio-2.jpg)
+![UD project](https://www.dropbox.com/s/5xr6srrwdip42mg/1_mock4-portfolio-2.jpg?raw=1)
 
 ---
 
