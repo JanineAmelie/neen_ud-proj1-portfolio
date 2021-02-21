@@ -37,7 +37,7 @@ line 5: meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"
 3. Unzip the file using Winrar / 7zip etc.
 4. Double click the index.html file and open with your favorite browser.
 
-5. Alternatively, view the site live here: https://janinelourens.github.io/neen_ud-proj1-portfolio/
+5. Alternatively, view the site live here: https://ninineen.github.io/neen_ud-proj1-portfolio/
 
 ---
 ### Finished Result:
